@@ -19,7 +19,7 @@ Neste projeto foram explorados conceitos avançados de organização de states c
 Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
 
 ## Experimente ✨
-repositório do jogo - Experimente ( https://trugilho.github.io/dio-jsmusic-keyboard-virtual-main/)
+repositório do jogo - Experimente (https://trugilho.github.io/dio-jsyugioh-assets-main/).
 
 ## Curso ministrado pela Dio.me
  [DIO](https://www.dio.me/)
